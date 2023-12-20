@@ -1,0 +1,46 @@
+.staked-amount {
+    width: 500px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 24px;
+    padding-left: 28px;
+    padding-right: 28px;
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+  }
+  .reward-rate {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 28px;
+    padding-right: 28px;
+    background-color: white;
+  }
+  .earned-reward {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 24px;
+    padding-left: 28px;
+    padding-right: 28px;
+    border-bottom-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    background-color: white;
+  }
+  
+  .top-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--bg-color);
+    border-radius: 24px;
+    padding-top: 18px;
+  }
+  
